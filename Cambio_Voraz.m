@@ -14,6 +14,7 @@ for i=n:-1:1
     end
 end
  solucion
+ %%%maldito liciado
 
 
 
