@@ -26,7 +26,7 @@ for i=1:n
         end
     end
 end
-%% Solucion
+%%%% Solucion
 for i=1:length(pos)
     if pos(i)==1
         sol(i)=x(i);
